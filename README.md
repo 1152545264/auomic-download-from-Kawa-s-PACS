@@ -1,2 +1,3 @@
 # auomic-download-from-Kawa-s-PACS
 根据excel表格信息自动从卡瓦CBCT的PACS系统上下载dicom
+将需要导出的病人ID填入同目录下的excel表格中，然后运行python脚本即可
